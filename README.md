@@ -2,4 +2,5 @@
 **I am learning:** Python, Bash, SQL<br>
 **Playing around with:** Wordpress, Grav, mediawiki<br>
 **Interested in:** digital privacy and digital accessibility
+**Current projects:** Mediawiki for Cystic Fibrosis communtiy 
 
